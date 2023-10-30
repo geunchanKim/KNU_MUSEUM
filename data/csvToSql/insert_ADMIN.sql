@@ -1,0 +1,110 @@
+
+    CREATE TABLE ADMIN (
+        AdminID VARCHAR(15) NOT NULL,
+	    Password VARCHAR(20) NOT NULL,
+	    Name VARCHAR(15) NOT NULL,
+	    Email VARCHAR(30) NOT NULL,
+	    PNumber VARCHAR(15) NOT NULL,
+	    PRIMARY KEY(AdminID)
+    )
+
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin662', 'Alvina2200', 독고누남, alvina@knu.ac.kr, 053-032-1302);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin168', 'Loretta7162', 차오백, loretta@knu.ac.kr, 053-872-5370);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin239', 'Merry5406', 최경민, merry@knu.ac.kr, 053-405-0831);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin131', 'Elvis8654', 류탐빛, elvis@knu.ac.kr, 053-412-2567);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin870', 'Gerald7371', 장보무, gerald@knu.ac.kr, 053-816-8673);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin665', 'David4676', 독고장지, david@knu.ac.kr, 053-302-6183);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin929', 'Laura9196', 강경로, laura@knu.ac.kr, 053-295-1624);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin823', 'William4156', 양아엄, william@knu.ac.kr, 053-159-2604);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin781', 'Bill2793', 문정엄, bill@knu.ac.kr, 053-275-8245);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin205', 'Audrey6078', 신무채, audrey@knu.ac.kr, 053-048-5120);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin683', 'Pamela5516', 제갈강상, pamela@knu.ac.kr, 053-620-6915);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin303', 'Earnest3452', 남궁한도, earnest@knu.ac.kr, 053-549-1437);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin137', 'Latasha1651', 손범요, latasha@knu.ac.kr, 053-968-6412);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin914', 'Daryl1463', 오래노, daryl@knu.ac.kr, 053-841-2317);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin592', 'Anna2293', 손예미, anna@knu.ac.kr, 053-856-7159);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin616', 'Patrick7533', 하자장, patrick@knu.ac.kr, 053-128-2510);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin508', 'Olga8662', 조아담, olga@knu.ac.kr, 053-798-6987);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin235', 'Dora4117', 성태아, dora@knu.ac.kr, 053-769-7281);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin531', 'Eusebio2880', 곽영자, eusebio@knu.ac.kr, 053-583-5437);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin381', 'Meghan5017', 허노치, meghan@knu.ac.kr, 053-587-6837);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin574', 'Marilyn6836', 전오누, marilyn@knu.ac.kr, 053-183-9416);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin864', 'Mario4600', 권미노, mario@knu.ac.kr, 053-381-3125);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin488', 'Rita7683', 정정사, rita@knu.ac.kr, 053-681-3172);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin299', 'Eduardo6973', 장강하, eduardo@knu.ac.kr, 053-908-4380);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin990', 'Don5521', 홍준완, don@knu.ac.kr, 053-816-8043);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin703', 'Jeremy5041', 홍준예, jeremy@knu.ac.kr, 053-814-5917);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin840', 'Thomas5452', 강복철, thomas@knu.ac.kr, 053-460-4168);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin385', 'Gladys3191', 우복혜, gladys@knu.ac.kr, 053-695-6459);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin423', 'Ronald5865', 선우상미, ronald@knu.ac.kr, 053-983-7058);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin775', 'Al1970', 권병애, al@knu.ac.kr, 053-156-5042);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin793', 'Juanita9484', 성루주, juanita@knu.ac.kr, 053-693-2695);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin695', 'Bonnie2796', 황보영오, bonnie@knu.ac.kr, 053-982-3769);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin794', 'Shannon9432', 서문재강, shannon@knu.ac.kr, 053-753-3421);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin132', 'Edna7788', 노태복, edna@knu.ac.kr, 053-931-6872);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin372', 'Robert2470', 남궁애나, robert@knu.ac.kr, 053-793-6403);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin553', 'Karen7609', 곽창영, karen@knu.ac.kr, 053-315-2671);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin995', 'Peter7212', 서안미, peter@knu.ac.kr, 053-957-3691);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin863', 'Geraldine1634', 장천형, geraldine@knu.ac.kr, 053-604-3721);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin157', 'Danielle9044', 송하한, danielle@knu.ac.kr, 053-583-1073);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin254', 'Janice8054', 권남별, janice@knu.ac.kr, 053-943-2368);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin177', 'John1857', 남동고, john@knu.ac.kr, 053-963-3687);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin734', 'Ned3259', 성루치, ned@knu.ac.kr, 053-451-1874);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin966', 'Alessandra1403', 주영무, alessandra@knu.ac.kr, 053-941-6102);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin631', 'Nina4137', 이노강, nina@knu.ac.kr, 053-053-6013);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin726', 'Jennifer2250', 선우장태, jennifer@knu.ac.kr, 053-753-4608);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin853', 'Brittney1400', 곽창자, brittney@knu.ac.kr, 053-374-5623);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin433', 'Katrina8706', 양천병, katrina@knu.ac.kr, 053-214-5078);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin288', 'Alvin2789', 양별호, alvin@knu.ac.kr, 053-687-7042);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin650', 'Marvin4255', 장산백, marvin@knu.ac.kr, 053-815-3072);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin609', 'Eunice6556', 손남민, eunice@knu.ac.kr, 053-196-4176);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin729', 'Kenneth6055', 양건완, kenneth@knu.ac.kr, 053-821-0154);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin277', 'Whitney7832', 신별루, whitney@knu.ac.kr, 053-745-8236);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin830', 'Joann5648', 고고도, joann@knu.ac.kr, 053-382-6257);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin970', 'Todd5499', 송창나, todd@knu.ac.kr, 053-927-1728);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin528', 'Randy1338', 고요형, randy@knu.ac.kr, 053-038-1307);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin784', 'Elizabeth7342', 남궁나고, elizabeth@knu.ac.kr, 053-809-8430);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin778', 'James1499', 성한범, james@knu.ac.kr, 053-324-9864);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin978', 'Sylvia5556', 하명치, sylvia@knu.ac.kr, 053-068-5680);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin803', 'Margaret4888', 차현태, margaret@knu.ac.kr, 053-843-3421);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin117', 'Raul4423', 황장창, raul@knu.ac.kr, 053-056-8517);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin533', 'Donna3025', 서문고별, donna@knu.ac.kr, 053-741-0162);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin463', 'Justin2541', 노라초, justin@knu.ac.kr, 053-824-7316);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin162', 'Shane3510', 홍석조, shane@knu.ac.kr, 053-691-6590);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin916', 'Kevin3700', 백호서, kevin@knu.ac.kr, 053-861-5921);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin308', 'Blanca2320', 전자한, blanca@knu.ac.kr, 053-962-7209);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin182', 'Eric7873', 정장현, eric@knu.ac.kr, 053-269-3210);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin248', 'Jill3951', 한지요, jill@knu.ac.kr, 053-307-6582);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin753', 'Sarah2542', 남궁준누, sarah@knu.ac.kr, 053-264-8793);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin351', 'Christina8461', 장별누, christina@knu.ac.kr, 053-328-1372);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin755', 'Hector7476', 주백강, hector@knu.ac.kr, 053-786-4397);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin700', 'Terry2147', 황보초혁, terry@knu.ac.kr, 053-682-7812);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin645', 'Dorothy8186', 배초천, dorothy@knu.ac.kr, 053-014-0431);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin458', 'Migdalia7897', 제갈고영, migdalia@knu.ac.kr, 053-730-4238);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin130', 'Rosemarie6644', 심초백, rosemarie@knu.ac.kr, 053-316-5870);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin900', 'Daniel2659', 김한태, daniel@knu.ac.kr, 053-419-7056);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin979', 'Dave5015', 차요누, dave@knu.ac.kr, 053-936-7240);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin597', 'Debbie3443', 황보라종, debbie@knu.ac.kr, 053-150-4587);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin944', 'Paul9497', 송경별, paul@knu.ac.kr, 053-713-2395);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin867', 'Gloria7167', 장선종, gloria@knu.ac.kr, 053-562-8431);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin796', 'Charles9025', 손도아, charles@knu.ac.kr, 053-735-8906);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin455', 'Connie4690', 정영빛, connie@knu.ac.kr, 053-693-0936);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin780', 'Carol6139', 장천호, carol@knu.ac.kr, 053-560-1207);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin811', 'Andrew6214', 노영담, andrew@knu.ac.kr, 053-051-3827);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin802', 'Wanda1176', 독고혁미, wanda@knu.ac.kr, 053-418-7385);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin921', 'Anita9252', 안건혁, anita@knu.ac.kr, 053-206-8149);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin222', 'Callie6633', 한혜완, callie@knu.ac.kr, 053-310-1893);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin783', 'Bobby9587', 임범완, bobby@knu.ac.kr, 053-072-4528);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin276', 'Tina6734', 류천남, tina@knu.ac.kr, 053-589-2836);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin637', 'Ivan6396', 손종사, ivan@knu.ac.kr, 053-648-6350);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin682', 'Diane6277', 유초대, diane@knu.ac.kr, 053-362-4139);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin967', 'Ramona7527', 고도재, ramona@knu.ac.kr, 053-189-1675);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin946', 'Nicole3482', 서문미한, nicole@knu.ac.kr, 053-960-5049);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin902', 'Albert4943', 선우완무, albert@knu.ac.kr, 053-943-7150);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin625', 'Harold4836', 독고별대, harold@knu.ac.kr, 053-624-9152);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin713', 'Kimberly7046', 유건경, kimberly@knu.ac.kr, 053-267-5193);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin230', 'Cynthia8508', 정정보, cynthia@knu.ac.kr, 053-625-6094);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin210', 'Chong6867', 우영누, chong@knu.ac.kr, 053-624-5916);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin957', 'Carolyn3678', 우도마, carolyn@knu.ac.kr, 053-367-7689);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin786', 'Arthur6971', 주혜오, arthur@knu.ac.kr, 053-639-5932);
+INSERT INTO USER (AdminID, Password, Name, Email, PNumber) VALUES ('admin344', 'Patsy5643', 서문종민, patsy@knu.ac.kr, 053-381-3069);
